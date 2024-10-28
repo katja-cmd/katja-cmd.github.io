@@ -26,7 +26,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [Philosophy of Artificial Intelligence ](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-9fbc2bee-b638-41ea-ac53-35dc54b1515a/LDA-C307), 2024
 
-[Johdatus digitaalisiin ihmistieteisiin ](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-3cd28bb6-ab6b-45d1-859e-d4c4b55535d3/KIK-417/Johdatus_digitaalisiin_ihmistieteisiin_KIK_417_HISK_234_KUKA_501_TTK_MU221_TTK_MU251_Et%C3%A4opetus, spring 2024)
+[Johdatus digitaalisiin ihmistieteisiin ](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-3cd28bb6-ab6b-45d1-859e-d4c4b55535d3/KIK-417/Johdatus_digitaalisiin_ihmistieteisiin_KIK_417_HISK_234_KUKA_501_TTK_MU221_TTK_MU251_Et%C3%A4opetus), spring 2024
 
 [Johdatus sosiaalitieteisiin](https://studies.helsinki.fi/kurssit/toteutus/otm-3efa51b5-cc9b-4be6-ab84-972b525252d9/SOSK-101), spring 2024
 
