@@ -17,20 +17,22 @@ layout: default
 * working on a remote server
 * createing and hosting a webpage on GitHub Pages
 
+If you are interedted, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course.
 
-[My notes from this course](https://katja-cmd.github.io/cmdline_course.html)
+
+## My notes fro this course
+
+[My notes collection](https://katja-cmd.github.io/cmdline_course.html)
 
 
 ## My cv
 [My cv](https://katja-cmd.github.io/cv.html)
 
+
 ## Find me on
 
 [GitHub](https://github.com/katja-cmd)
 
-## Contact
-
-My email address is of the form first_name.last_name@helsinki.fi. 
 
 ## Courses I've Taken
 
