@@ -19,11 +19,22 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [Introduction to Linquistic DIversity and Digital Humanties](hhttps://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), fall 2024
 
-[Programming for Digital Humanitie](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-d85cca5c-0a41-4332-9f2b-5f8d82d602c9/LDA-H511), fall 2024
+[Ethics of artificiall intelligence](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-e5f774f1-ddd7-4890-be4f-d9501d462795/LDA-C505)
 
-[Mieli, kieli ja tekoäly](https://studies.helsinki.fi/kurssit/toteutus/otm-f6f9f90c-0541-40a1-b63a-68b89050542c/LDA-C318/Avoin_yo_Mieli_kieli_ja_tek%C3%B6%C3%A4ly_kognitiotieteen_n%C3%A4k%C3%B6kulmia), spring 2024
+[Philosophy of Artificial Intelligence ](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-9fbc2bee-b638-41ea-ac53-35dc54b1515a/LDA-C307)
 
-## Projects
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 
 ## Misc. 
 
