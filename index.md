@@ -39,6 +39,24 @@ My email address is of the form first_name.last_name@helsinki.fi.
 []()
 
 
-## Misc. 
+## My AI and CS fvorites in the pop culture
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Discworld: Hex](https://discworld.fandom.com/wiki/Hex) 
+
+[The Matrix](https://www.imdb.com/title/tt0133093/)
+
+[Marvin the paranoid android](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android)
+
+[Poe, the AI with gaming adiction](https://altered-carbon.fandom.com/wiki/Poe)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
