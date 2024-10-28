@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## Introduction
 
 <img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
