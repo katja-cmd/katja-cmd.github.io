@@ -5,7 +5,18 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> This is the final project of Command-Line Tools for Linguists course (KIK-LG221). 
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
+* operating in a Unix-like environment
+* using Unix command-line on a Windows or Mac OSX computer
+* using regular expressions
+* processing corpora at a basic level
+* running programs from the command-line
+* installing programs
+* writing basic scripts
+* using version control tools
+* working on a remote server
+* createing and hosting a webpage on GitHub Pages
+
 
 [My notes from this course](https://katja-cmd.github.io/cmdline_course.html)
 
