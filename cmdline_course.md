@@ -1,12 +1,12 @@
 ### My notes
 
-[Nano cheat sheet](https://github.com/katja-cmd/katja-cmd.github.io/blob/master/nano_cheat_cheet.md)
+[Nano cheat sheet](https://katja-cmd.github.io//nano_cheat_cheet.html)
 
-[Command line cheat sheet](https://github.com/katja-cmd/katja-cmd.github.io/blob/master/cmd_line_cheat_sheet.md)
+[Command line cheat sheet](https://katja-cmd.github.io/cmd_line_cheat_sheet.html)
 
-[Git cheat sheet](https://github.com/katja-cmd/katja-cmd.github.io/blob/master/git_cheat_sheet.md)
+[Git cheat sheet](https://katja-cmd.github.io/git_cheat_sheet.html)
 
-[Git markdown cheat sheet](https://github.com/katja-cmd/katja-cmd.github.io/blob/master/github_markdown_cheat_sheet.md)
+[Git markdown cheat sheet](https://katja-cmd.github.io/github_markdown_cheat_sheet.html)
 
 
 
