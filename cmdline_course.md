@@ -1,3 +1,50 @@
+### Course syllabus
+
+**Week 1: Introduction to Command-Line Linux**
+* How to install and use Windos subsystem for Windows
+* Command-line basic commands
+* Text editors
+* File formats 
+
+**Week 2: Navigating a UNIX System **
+* The UNIX filesystem
+* Commands
+* Users, groups and file permissions
+* Working in a remote server 
+
+**Week 3: Corpus Processing**
+* Processing text files 
+* Processing data files
+* Regular expressions introduction
+
+**Week 4: Scripting and Version Control**
+* Searching (grep)
+* Editing files (sed) 
+* Combining commands into a script
+* Git version control 
+
+**Week 5: A Deeper Look at the UNIX System**
+* Environment variables
+* Configuration files (.bashrc, .bash_history, .bash_profile)
+* Writing own scripts
+* UNIX directory tree 
+
+**Week 6: Installing and Running Programs **
+* Root user
+* Installing and running python-based software
+* Creating your virtual environments
+* Building projects using Make 
+
+**Week 7: Version control**
+* Git & Github
+* Setting up Git repository
+* Committing changes
+* Git branches
+
+**Final project**
+* Building Webpages using GitHub Pages
+
+
 ### My notes
 
 [Nano cheat sheet](https://katja-cmd.github.io//nano_cheat_cheet.html)
