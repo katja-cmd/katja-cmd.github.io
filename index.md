@@ -7,6 +7,9 @@ layout: default
 
 <img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> This is the final project of Command-Line Tools for Linguists course (KIK-LG221). 
 
+## My cv
+(My cv)[https://github.com/katja-cmd/katja-cmd.github.io/blob/master/cv.md]
+
 ## Find me on
 
 [GitHub](https://github.com/katja-cmd)
