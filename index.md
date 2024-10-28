@@ -1,7 +1,7 @@
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
+<img src="https://github.com/katja-cmd/katja-cmd.github.io/blob/master/images/git_2x.png" alt="Photo" hspace="20" width="30%" align="right"/> This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
 * operating in a Unix-like environment
 * using Unix command-line on a Windows or Mac OSX computer
 * using regular expressions
@@ -16,7 +16,7 @@
 If you are interedted, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course.
 
 
-## My notes fro this course
+## My notes from this course
 
 [My notes collection](https://katja-cmd.github.io/cmdline_course.html)
 
