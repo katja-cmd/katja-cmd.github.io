@@ -39,7 +39,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 []()
 
 
-## My AI and CS fvorites in the pop culture
+## My AI and CS favorites in the pop culture
 
 [Discworld: Hex](https://discworld.fandom.com/wiki/Hex) 
 
