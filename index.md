@@ -1,7 +1,7 @@
 
 ## Introduction
 
-<img src="https://github.com/katja-cmd/katja-cmd.github.io/blob/master/images/git_2x.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I got to know the field when I had cognitive science as my minor when compliting my bachelors degree in computer science and fell in love with the interdisciplinary nature of the discipline.
+<img src="images/git_2x.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I got to know the field when I had cognitive science as my minor when compliting my bachelors degree in computer science and fell in love with the interdisciplinary nature of the discipline.
 
 As I am a bit oder the the average student, I have a day job and two kids, so I don't actually have a lot of time for hobbies. I try to make use of commuting time by listinen audio books and right now I am listening to [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). 
 
