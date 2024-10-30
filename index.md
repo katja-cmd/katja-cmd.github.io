@@ -35,7 +35,7 @@ If you are interested, see [this link](https://studies.helsinki.fi/courses/cours
 
 
 ## My cv
-[My cv](https://katja-cmd.github.io/cv.html)
+[My cv](/assets/documents/cv.pdf)
 
 
 ## Find me on
