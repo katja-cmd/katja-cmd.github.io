@@ -1,7 +1,6 @@
 ## Command line for linquistics course KIK-LG219
 
 
-
 _This page includes:_
 
 [The course syllabus](#the-course-syllabus)
@@ -17,10 +16,14 @@ _This page includes:_
 ### The course syllabus
 
 **Week 1: Introduction to Command-Line Linux**
+
+Main topics:
 * How to install and use Windos subsystem for Windows
 * Using command-line basic commands
 * Using text editors in command line (Nano)
 * File formats (pdf, doc, jpeg, png, mp4)
+
+First weeks main thing is to get the command line up and running regardless of what OS they are using. I am a Windows user, so I am using Linux subsystem for Linux. After completing that the next task is to learn how to navigate in command line environment: creating and deleting files and folders, moving between folders, how to open a file to read (Nano). 
 
 _New commands I learned this week:_
 
@@ -44,10 +47,14 @@ _New commands I learned this week:_
 ---
 
 **Week 2: Navigating a UNIX System**
+
+Main topics:
 * The UNIX filesystem
 * Commands
 * Users, groups and file permissions
 * Working in a remote server
+
+The second week of this course included more navigating in the UNIX environment from the command line. Also connected to a remote system using SSH (secure shell protocol).
 
 _New commands I learned this week:_
 
@@ -69,9 +76,13 @@ _New commands I learned this week:_
 ---
 
 **Week 3: Corpus Processing**
+
+Main topics:
 * Processing text files 
 * Processing data files
 * Regular expressions introduction
+
+The third week is about text and data file processing. 
 
 _New commands I learned this week:_
 
@@ -92,10 +103,13 @@ _New commands I learned this week:_
 ---
 
 **Week 4: Scripting and Version Control**
+
+Main topics:
 * Searching (grep)
 * Editing files (sed) 
 * Combining commands into a script
-* Git version control 
+
+Week 4 is about the basics of scripting, with a focus on combining multiple commands into reusable scripts. Tools like `grep` and `sed` can be used for advanced searching and editing, improving text filtering and modification skills (and this required lots of learning from mistakes, e.g. not easy week for me). 
 
 _New commands I learned this week:_
 
@@ -112,10 +126,14 @@ _New commands I learned this week:_
 ---
 
 **Week 5: A Deeper Look at the UNIX System**
+
+Main topics:
 * Environment variables
 * Configuration files (.bashrc, .bash_history, .bash_profile)
 * Writing own scripts
-* UNIX directory tree 
+
+Week 5 is about configuration files, environment variables, and custom script creation. More learning from mistakes.
+
 
 _New commands I learned this week:_
 
@@ -136,10 +154,15 @@ _New commands I learned this week:_
 ---
 
 **Week 6: Installing and Running Programs**
+
+Main topics:
 * Root user
 * Installing and running python-based software
 * Creating your virtual environments
 * Building projects using Make 
+
+This week we learned from different user levels (thou must be careful to use sudo!). Also learned about packet managers for installing packages. Makefiles help automate larger projects and after spending two hours of trying to fix your makefile logic only to find out a TYPO you really need a break.
+
 
 _New commands I learned this week:_
 
@@ -163,12 +186,17 @@ _New commands I learned this week:_
 ---
 
 **Week 7: Version control**
+
+Main topics:
 * Git & Github
 * Setting up Git repository
 * Committing changes
 * Git branches
 
 <img src="https://cdn.masto.host/socialjvnsca/media_attachments/files/111/902/671/570/742/924/original/6198af3309e7e932.png" alt="https://social.jvns.ca/@b0rk/111902671879692064" widt="30%" align=center">
+
+There is a reason why XKCD makes so many jokes of Git and version control. This weeks topics were about setting up a very own github remote repository, how to commit changes and have branches for different functionalities/parts. (Gues how many times I restarted my git page because I didn’t read the instructions properly? Its more than two.)
+
 
 
 _New commands I learned this week:_
@@ -183,7 +211,11 @@ _New commands I learned this week:_
 ---
 
 **Final project**
+Main topics:
 * Building Webpages using GitHub Pages
+
+Github pages were a new feature for me but a very useful. I spent hours on building my project and a lot of time was spent to waiting for the changes to be updated on server. 
+
 
 _New commands I learned this week:_
 
@@ -207,7 +239,6 @@ _New commands I learned this week:_
 [Git cheat sheet](https://katja-cmd.github.io/git_cheat_sheet.html)
 
 [Git markdown cheat sheet](https://katja-cmd.github.io/github_markdown_cheat_sheet.html)
-
 
 ### Usefull links
 
@@ -236,7 +267,6 @@ _New commands I learned this week:_
 [What is a Makefile and how does it work](https://opensource.com/article/18/8/what-how-makefile)
 
 
-
 ### Handy video tutorials
 
 [How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux](https://youtu.be/xzgwDbe7foQ?si=n5Cxxd-OAT3T4TKP)
@@ -254,5 +284,6 @@ _New commands I learned this week:_
 [Linux directories explained](https://youtu.be/42iQKuQodW4?si=l4GvLeo8rmUVioXB)
 
 [Bash in 100 seconds](https://youtu.be/I4EWvMFj37g?si=sq5UzteERIxRnBYR)
+
 
 
