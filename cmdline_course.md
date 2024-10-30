@@ -168,6 +168,9 @@ _New commands I learned this week:_
 * Committing changes
 * Git branches
 
+<img src="https://cdn.masto.host/socialjvnsca/media_attachments/files/111/902/671/570/742/924/original/6198af3309e7e932.png" alt="https://social.jvns.ca/@b0rk/111902671879692064" widt="30%" align=center">
+
+
 _New commands I learned this week:_
 
 | Command | Description |
