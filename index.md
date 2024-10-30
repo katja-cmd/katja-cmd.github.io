@@ -1,7 +1,6 @@
-
 ## Introduction
 
-<img src="images/git_2x.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I got to know the field when I had cognitive science as my minor when completing my bachelors degree in computer science and fell in love with the interdisciplinary nature of the discipline.
+<img src="assets/images/stick_figure.png" alt="XKCD comic about Git" hspace="20" width="20%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I got to know the field when I had cognitive science as my minor when completing my bachelors degree in computer science and fell in love with the interdisciplinary nature of the discipline.
 
 What else was I suppose to write... Hobbies? As I am a bit oder the the average student, I have a day job and two kids, so I don't have a lot of time for hobbies. I try to make use of commuting time by listening audio books and right now I am listening this: [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). 
 
@@ -13,7 +12,7 @@ Here's a list of few of my book recommendations:
 
 ---
 
-This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
+<img src="https://imgs.xkcd.com/comics/git.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/>This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
 * operating in a Unix-like environment
 * using Unix command-line on a Windows or Mac OSX computer
 * using regular expressions
@@ -26,6 +25,8 @@ This page is the final project of Command-Line Tools for Linguists course (Unive
 * creating and hosting a webpage on GitHub Pages
 
 If you are interested, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course.
+
+<sub>(_The source for the cartoon: ![XKCD](https://xkcd.com/1597/)_ -->)<sub>
 
 
 ## My notes from this course
@@ -46,15 +47,15 @@ If you are interested, see [this link](https://studies.helsinki.fi/courses/cours
 
 ## My projects
 
-* [Jakaja application for small group assignment optimization ror the University of Helsinki's Faculty of Education](https://github.com/piryopt/pienryhmien-optimointi). Study project for [Software Lab course](https://studies.helsinki.fi/kurssit/opintojakso/otm-f07aa52f-df4c-4a9a-8e89-d6222b88e2f2/TKT20007) Group work.
+* [Jakaja application for small group assignment optimization ror the University of Helsinki's Faculty of Education](https://github.com/piryopt/pienryhmien-optimointi). Study project for [Software Lab course](https://studies.helsinki.fi/kurssit/opintojakso/otm-f07aa52f-df4c-4a9a-8e89-d6222b88e2f2/TKT20007). Group work.
 
-* [Movie voting app](https://github.com/KatjaKvintus/Movie-voting-app). Course project for [Software Development Methods course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118024742-2021-08-01/TKT20002)
+* [Movie voting app](https://github.com/KatjaKvintus/Movie-voting-app). Course project for [Software Development Methods course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118024742-2021-08-01/TKT20002).
 
-* [Overnight oatmeal recipe bank](https://github.com/KatjaKvintus/Overnight-oats-recipe-bank). Study project for [Database application lab course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025659-2021-08-01/TKT20011) 
+* [Overnight oatmeal recipe bank](https://github.com/KatjaKvintus/Overnight-oats-recipe-bank). Study project for [Database application lab course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025659-2021-08-01/TKT20011).
 
-* [Visualization and comparison of maze generating algorithms ](https://github.com/KatjaKvintus/maze_generation). Study project for [Data Structures Project course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025627-2021-08-01/TKT20010)
+* [Visualization and comparison of maze generating algorithms ](https://github.com/KatjaKvintus/maze_generation). Study project for [Data Structures Project course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025627-2021-08-01/TKT20010).
 
-* [This web page Github project](https://github.com/katja-cmd/katja-cmd.github.io). Study project for [Command Line Tools for Linguists course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f)
+* [This web page Github project](https://github.com/katja-cmd/katja-cmd.github.io). Study project for [Command Line Tools for Linguists course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f).
 
 
 ## Few courses I've Taken
