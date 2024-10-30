@@ -1,5 +1,19 @@
 ## Command line for linquistics course KIK-LG219
 
+
+
+_This page includes:_
+
+[The course syllabus](#the-course-syllabus)
+
+[My notes](#my-notes)
+
+[Usefull links](#usefull-links)
+
+[Handy video tutorials](#handy-video-tutorials)
+
+--- 
+
 ### The course syllabus
 
 **Week 1: Introduction to Command-Line Linux**
