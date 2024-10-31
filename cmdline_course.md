@@ -23,7 +23,7 @@ Main topics:
 * Using text editors in command line (Nano)
 * File formats (pdf, doc, jpeg, png, mp4)
 
-First weeks main thing is to get the command line up and running regardless of what OS they are using. I am a Windows user, so I am using Linux subsystem for Linux. After completing that the next task is to learn how to navigate in command line environment: creating and deleting files and folders, moving between folders, how to open a file to read (Nano). 
+First weeks main thing is to get the command line up and running regardless of what ever OS anyone are using. I am a Windows user, so I am using Linux subsystem for Linux. After completing that the next task is to learn how to navigate in command line environment: creating and deleting files and folders, moving between folders, how to open a file to read in a program (Nano) or just display the file contents in command line (cat). We also learned how to download a text files from internet, search key words from it 
 
 _New commands I learned this week:_
 
@@ -54,7 +54,8 @@ Main topics:
 * Users, groups and file permissions
 * Working in a remote server
 
-The second week of this course included more navigating in the UNIX environment from the command line. Also connected to a remote system using SSH (secure shell protocol).
+The second week of this course included more navigating in the UNIX environment from the command line like copying files to another folders, creatings links to files, and how to remove folers f there is or is not contents. Also learned how to connect to a remote system using [SSH (secure shell protocol)](https://en.wikipedia.org/wiki/Secure_Shell).
+
 
 _New commands I learned this week:_
 
@@ -82,7 +83,8 @@ Main topics:
 * Processing data files
 * Regular expressions introduction
 
-The third week is about text and data file processing. 
+The third week is about text and data file processing. We learned how to remove line breaks from a .txt file, rea-arranging lines in a text file (usefull maybe in a wors lists?), searching patters (grep), and checking how many lines a .txt file has (note to self: in Nano the show line numbers command is Alt-C). We alse learned to create word frequency lists with a really long one line command (and that's why we create scripts).
+
 
 _New commands I learned this week:_
 
@@ -109,7 +111,8 @@ Main topics:
 * Editing files (sed) 
 * Combining commands into a script
 
-Week 4 is about the basics of scripting, with a focus on combining multiple commands into reusable scripts. Tools like `grep` and `sed` can be used for advanced searching and editing, improving text filtering and modification skills (and this required lots of learning from mistakes, e.g. not easy week for me). 
+Week 4 is about the basics of scripting, focusing on combining multiple commands into scripts. Commands like `grep` and `sed` can be used for advanced searching and editing, improving text filtering and modification skills (and this required lots of learning from mistakes, e.g. not easy week for me -  needed to have emergency chocolate next to me when doing this weeks homework). We also learned to create n-grams from a .txt file.
+
 
 _New commands I learned this week:_
 
@@ -132,7 +135,7 @@ Main topics:
 * Configuration files (.bashrc, .bash_history, .bash_profile)
 * Writing own scripts
 
-Week 5 is about configuration files, environment variables, and custom script creation. More learning from mistakes.
+Week 5 is about configuration files, environment variables, and custom script creation. More learning from my own mistakes. After creating a script I need to give permission to execute it before running it and isn't that fun thing to realize after debugging the script for three hours. Another mistake I made recursively was to not include the script path when trying to execute it from a different folder. 
 
 
 _New commands I learned this week:_
@@ -161,7 +164,7 @@ Main topics:
 * Creating your virtual environments
 * Building projects using Make 
 
-This week we learned from different user levels (thou must be careful to use sudo!). Also learned about packet managers for installing packages. Makefiles help automate larger projects and after spending two hours of trying to fix your makefile logic only to find out a TYPO you really need a break.
+This week we learned from different user levels (thou ought to be careful when using sudo!). Also learned about packet managers for installing packages (pip). Makefiles help automate larger projects and after spending two hours of trying to fix your makefile logic only to find out a TYPO you really need a break. 
 
 
 _New commands I learned this week:_
@@ -195,8 +198,7 @@ Main topics:
 
 <img src="https://cdn.masto.host/socialjvnsca/media_attachments/files/111/902/671/570/742/924/original/6198af3309e7e932.png" alt="https://social.jvns.ca/@b0rk/111902671879692064" widt="30%" align=center">
 
-There is a reason why XKCD makes so many jokes of Git and version control. This weeks topics were about setting up a very own github remote repository, how to commit changes and have branches for different functionalities/parts. (Gues how many times I restarted my git page because I didn’t read the instructions properly? Its more than two.)
-
+There is a reason why XKCD makes so many jokes of Git and version control. This weeks topics were about setting up a very own github remote repository, how to commit changes and have branches for different functionalities/parts. (Gues how many times I restarted my git page because I didn’t read the instructions properly? Its more than two.) The branching functionality makes sense in a bigger projects with more than one contributor, but I don't really see the point to use several branches when working by myself.
 
 
 _New commands I learned this week:_
@@ -211,10 +213,13 @@ _New commands I learned this week:_
 ---
 
 **Final project**
+
 Main topics:
 * Building Webpages using GitHub Pages
+* Using Jekyll templates
+* LateX
 
-Github pages were a new feature for me but a very useful. I spent hours on building my project and a lot of time was spent to waiting for the changes to be updated on server. 
+Github pages were a new feature for me but a very useful. I spent hours on building my project and a lot of time was spent to waiting for the changes to be updated on server. We learned to use LateX to make cv from a template. I have used LateX briefly before and we are not friends. Minor changes could make everything collaps and I learned to hit "compile" every 10 seconds to find my errors before wiriting something in lenght only to realize it don't work. Microsoft Office is not perfect, but I think I will stick with it rather than use LateX.
 
 
 _New commands I learned this week:_
@@ -230,6 +235,9 @@ _New commands I learned this week:_
 
 ---
 
+<img src="/assets/images/gitlogo.png" alt="XKCD comic about Git" hspace="20" width="15%" align="center"/>
+
+
 ### My notes
 
 [Nano cheat sheet](https://katja-cmd.github.io//nano_cheat_cheet.html)
@@ -239,6 +247,7 @@ _New commands I learned this week:_
 [Git cheat sheet](https://katja-cmd.github.io/git_cheat_sheet.html)
 
 [Git markdown cheat sheet](https://katja-cmd.github.io/github_markdown_cheat_sheet.html)
+
 
 ### Usefull links
 
