@@ -1,8 +1,8 @@
 ## Introduction
 
-<img src="assets/images/stick_figure.png" alt="XKCD comic about Git" hspace="20" width="20%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I got to know the field when I had cognitive science as my minor when completing my bachelors degree in computer science and fell in love with the interdisciplinary nature of the discipline.
+<img src="assets/images/stick_figure.png" alt="XKCD comic about Git" hspace="20" width="20%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I found out about this newish field while completing my baschelors degree in computer science. Cognitive science was mentioned in out freshman guide as a good choice for a minor subject for computer scientists. So I took the introductory course, just to see what it was all about, and fell in love with its interdisciplinary nature. And while I was compelting my Bachelors degree, I noticed that I was far more interested in cognitive science courses then my majors
 
-What else was I suppose to write... Hobbies? As I am a bit oder the the average student, I have a day job and two kids, so I don't have a lot of time for hobbies. I try to make use of commuting time by listening audio books and right now I am listening [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). 
+What else was I suppose to write... Hobbies? As I am a bit oder the the average student, I have a day job and two kids, so I don't have a lot of time for hobbies. I try to make use of commuting time by listening audio books and right now I am listening [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). Its kind of an compromise with me feeling I should listen usefull audiobooks where I can learn something but it still light enough to be fun.
 
 Here's a list of few of my book recommendations: 
 * [Kevin Mitnics & William L. Simon: Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/book/show/10256723-ghost-in-the-wires?ref=nav_sb_ss_1_18)
@@ -12,7 +12,7 @@ Here's a list of few of my book recommendations:
 
 ---
 
-## Why this page is here?
+## Why this page exists?
 
 <img src="https://imgs.xkcd.com/comics/git.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/>This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
 * operating in a Unix-like environment
@@ -26,7 +26,7 @@ Here's a list of few of my book recommendations:
 * working on a remote server
 * creating and hosting a webpage on GitHub Pages
 
-If you are interested, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course.
+If you are interested, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course (or check [my notes](https://katja-cmd.github.io/cmdline_course.html)  from this course.)
 
 <sub>(_The source for the cartoon: ![XKCD](https://xkcd.com/1597/)_ -->)<sub>
 
@@ -59,8 +59,10 @@ If you are interested, see [this link](https://studies.helsinki.fi/courses/cours
 
 * [This web page Github project](https://github.com/katja-cmd/katja-cmd.github.io). Study project for [Command Line Tools for Linguists course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f).
 
+* [Command line tools course assignment](https://github.com/katja-cmd/cmdline-course). Includes few scripts and makefile to run in an .txt file.
 
-## Few courses I've Taken
+
+## Few courses I've taken
 
 * [Introduction to Linquistic DIversity and Digital Humanties](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), fall 2024
 
