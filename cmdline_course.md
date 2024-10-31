@@ -3,17 +3,17 @@
 
 _This page includes:_
 
-[The course syllabus](#the-course-syllabus)
+[The course contents](#the-course-contents)
 
-[My notes](#my-notes)
+[My notes (e.g. collection od cheat sheets)](#my-notes)
 
-[Usefull links](#usefull-links)
+[Usefull links to written tutorials](#usefull-links)
 
 [Handy video tutorials](#handy-video-tutorials)
 
 --- 
 
-### The course syllabus
+### The course contents
 
 **Week 1: Introduction to Command-Line Linux**
 
@@ -23,7 +23,14 @@ Main topics:
 * Using text editors in command line (Nano)
 * File formats (pdf, doc, jpeg, png, mp4)
 
-First weeks main thing is to get the command line up and running regardless of what ever OS anyone are using. I am a Windows user, so I am using Linux subsystem for Linux. After completing that the next task is to learn how to navigate in command line environment: creating and deleting files and folders, moving between folders, how to open a file to read in a program (Nano) or just display the file contents in command line (cat). We also learned how to download a text files from internet, search key words from it 
+First weeks main thing is to get the command line up and running regardless of what ever OS anyone are using. I am a Windows user, so I am using Linux subsystem for Linux. Not as easy as one would think. After completing that the next task was to learn how to navigate in command line environment: creating and deleting files and folders, moving between folders, how to open a file to read in a program (Nano) or just display the file contents in command line (cat). We also learned how to download a text files from internet and search key words from it. Important to remember: with tab key we can get previously used command from memory and tje general copy and paste keyboard shortcuts are not the same as in Windows (ctrl+C -> Ctrl+Shitf+C).
+
+_Example code snippet of this week:_
+
+```
+$ wget [URL] 
+```
+This command downloads content from the given url.
 
 _New commands I learned this week:_
 
@@ -54,7 +61,15 @@ Main topics:
 * Users, groups and file permissions
 * Working in a remote server
 
-The second week of this course included more navigating in the UNIX environment from the command line like copying files to another folders, creatings links to files, and how to remove folers f there is or is not contents. Also learned how to connect to a remote system using [SSH (secure shell protocol)](https://en.wikipedia.org/wiki/Secure_Shell).
+The second week of this course included more navigating in the UNIX environment from the command line like copying files to another folders, creatings links to files, and how to remove folders when there is or is not contents. Also learned how to connect to a remote system using [SSH (secure shell protocol)](https://en.wikipedia.org/wiki/Secure_Shell). (Be aware: after getting the connection to Puhti working, the samp emails cannot be stopped.)
+
+
+_Example code snippet of this week:_
+
+```
+$ killall <process_name>
+```
+This command kills a named process.
 
 
 _New commands I learned this week:_
@@ -83,8 +98,15 @@ Main topics:
 * Processing data files
 * Regular expressions introduction
 
-The third week is about text and data file processing. We learned how to remove line breaks from a .txt file, rea-arranging lines in a text file (usefull maybe in a wors lists?), searching patters (grep), and checking how many lines a .txt file has (note to self: in Nano the show line numbers command is Alt-C). We alse learned to create word frequency lists with a really long one line command (and that's why we create scripts).
+The third week is about text and data file processing. We learned how to remove line breaks from a .txt file, re-arranging lines in a text file (usefull maybe in a word lists?), searching patters (grep), and checking how many lines a .txt file has (note to self: in Nano the show line numbers command is Alt-C). We alse learned to create word frequency lists with a really long one line command that are very prone to typos (and that's why we create scripts).
 
+
+_Example code snippet of this week:_
+
+```
+$ cat book.txt  2> errors.txt| tr '\n' ' ' > output.txt
+```
+This command transforms book.txt into one long line and prints potential error messages from cat to errors.txt. The output from the tr command is directed to output.txt.
 
 _New commands I learned this week:_
 
@@ -111,7 +133,15 @@ Main topics:
 * Editing files (sed) 
 * Combining commands into a script
 
-Week 4 is about the basics of scripting, focusing on combining multiple commands into scripts. Commands like `grep` and `sed` can be used for advanced searching and editing, improving text filtering and modification skills (and this required lots of learning from mistakes, e.g. not easy week for me -  needed to have emergency chocolate next to me when doing this weeks homework). We also learned to create n-grams from a .txt file.
+Week 4 is about the basics of scripting, focusing on combining multiple commands into handy scripts. Commands like `grep` and `sed` can be used for advanced searching and editing, improving text filtering and modification skills (and this required lots of learning from mistakes, e.g. not easy week for me -  needed to have emergency chocolate next to me when doing this weeks homework). We also learned to create n-grams from a .txt file.
+
+
+_Example code snippet of this week:_
+
+```
+$ cat life_of_bee.txt | tr -s '\n\r\t ' '\n' | tr -dc "A-Za-z0-9'\n" | egrep "^[A-Z]" | wc -l
+```
+This pipeline code takes life_of_bee.txt file, transforms it into a one word per line format, removes punctuations and finally outputs the contents with 'cat'. TThe output is count of the number of lines in life_of_bee.txt that start with an uppercase letter after all the cleaning.
 
 
 _New commands I learned this week:_
@@ -136,6 +166,15 @@ Main topics:
 * Writing own scripts
 
 Week 5 is about configuration files, environment variables, and custom script creation. More learning from my own mistakes. After creating a script I need to give permission to execute it before running it and isn't that fun thing to realize after debugging the script for three hours. Another mistake I made recursively was to not include the script path when trying to execute it from a different folder. 
+
+
+_Example code snippet of this week:_
+
+```
+#!/bin/bash
+echo "$1er"
+```
+This code is a bash script that takes one argument (an English adjective) and prints its comparative form ending "-er". 
 
 
 _New commands I learned this week:_
@@ -167,6 +206,14 @@ Main topics:
 This week we learned from different user levels (thou ought to be careful when using sudo!). Also learned about packet managers for installing packages (pip). Makefiles help automate larger projects and after spending two hours of trying to fix your makefile logic only to find out a TYPO you really need a break. 
 
 
+_Example code snippet of this week:_
+
+```
+$ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+This command uses pip to install the Deep Learning library of Python, called Pytorch.
+
+
 _New commands I learned this week:_
 
 | Command | Description |
@@ -196,9 +243,19 @@ Main topics:
 * Committing changes
 * Git branches
 
-<img src="https://cdn.masto.host/socialjvnsca/media_attachments/files/111/902/671/570/742/924/original/6198af3309e7e932.png" alt="https://social.jvns.ca/@b0rk/111902671879692064" widt="30%" align=center">
+<img src="https://cdn.masto.host/socialjvnsca/media_attachments/files/111/902/671/570/742/924/original/6198af3309e7e932.png" alt="https://social.jvns.ca/@b0rk/111902671879692064" width="70%" style="display: block; margin: 0 auto;">
+
 
 There is a reason why XKCD makes so many jokes of Git and version control. This weeks topics were about setting up a very own github remote repository, how to commit changes and have branches for different functionalities/parts. (Gues how many times I restarted my git page because I didn’t read the instructions properly? Its more than two.) The branching functionality makes sense in a bigger projects with more than one contributor, but I don't really see the point to use several branches when working by myself.
+
+
+_Example code snippet of this week:_
+
+```
+$ git config --global user.name "Aku Ankka"
+$ git config --global user.email "aku@ankkalinna.com"
+```
+These commands set user.name and user.email to git.
 
 
 _New commands I learned this week:_
@@ -212,14 +269,24 @@ _New commands I learned this week:_
 
 ---
 
-**Final project**
+**The Final project**
 
 Main topics:
 * Building Webpages using GitHub Pages
 * Using Jekyll templates
 * LateX
 
-Github pages were a new feature for me but a very useful. I spent hours on building my project and a lot of time was spent to waiting for the changes to be updated on server. We learned to use LateX to make cv from a template. I have used LateX briefly before and we are not friends. Minor changes could make everything collaps and I learned to hit "compile" every 10 seconds to find my errors before wiriting something in lenght only to realize it don't work. Microsoft Office is not perfect, but I think I will stick with it rather than use LateX.
+Github pages were a new feature for me but a very useful. I spent hours on building my project and a lot of time was spent to waiting for the changes to be updated on server. We learned to use LateX to make cv from a template. I have used LateX briefly before and we are not in speaking terms. Minor changes could make everything collaps and I learned to hit "compile" every 10 seconds to find my errors before writing something in lenght only to realize it don't work. Microsoft Office is not perfect, but I think I will stick with it and deal with bugs rather than use LateX.
+
+
+_Example code snippet of this week:_
+
+```
+$ git add .
+$ git commit -m "Typo corrections, again (I might be dyslexic)"
+$ git push
+```
+These commands add all modifield files to commit, does the Git commit with a dsescribing comment (that should actually be a bit more formal) and pushes the changes to remote repository.
 
 
 _New commands I learned this week:_
