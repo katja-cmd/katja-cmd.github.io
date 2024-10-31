@@ -1,5 +1,7 @@
 ## Command line for linquistics course KIK-LG219
 
+This course introduces the basics of command-line tools with a linquistics focus. It starts from the basics – no prerequisites needed! (But if you have any experience in programming, it will be useful.) The first week starts from basic navigation and file handling, introduces regular expressions and script writing, and end with publishing a web page via Github pages using branching and version control tools. 
+
 
 _This page includes:_
 
