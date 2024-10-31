@@ -1,6 +1,6 @@
 ## Command line commands - my cheat sheet
 
-## General file and directory management commands
+### General file and directory management commands
 
 | Command | Description |
 |---------|-------------|
@@ -43,7 +43,7 @@
 
 --- 
 
-### Permission and user management commands
+### Permissions and user management commands
 
 | Command | Description |
 |---------|-------------|
@@ -57,7 +57,7 @@
 
 ---
 
-### Other commands
+### Other usefull commands
 
 | Command | Description |
 |---------|-------------|
@@ -87,4 +87,3 @@
 | `~/.bashrc` | Initialization file executed for interactive shells.|
 | `~/.bash_profile` | Initialization file for login shells (on some systems). |
 | `&` | Runs a command in the background. |
-

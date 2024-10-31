@@ -1,8 +1,8 @@
 ## Introduction
 
-<img src="assets/images/stick_figure.png" alt="XKCD comic about Git" hspace="20" width="20%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humantities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I found out about this newish field while completing my baschelors degree in computer science. Cognitive science was mentioned in out freshman guide as a good choice for a minor subject for computer scientists. So I took the introductory course, just to see what it was all about, and fell in love with its interdisciplinary nature. And while I was compelting my Bachelors degree, I noticed that I was far more interested in cognitive science courses then my majors
+<img src="assets/images/stick_figure.png" alt="XKCD comic about Git" hspace="20" width="20%" align="right"/> I am first year student in [Linquistic Diversity and Digital Humanities master's programme](https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying) (LingDig) in University of Helsinki. For my study track I chose [cognitive science](https://www.helsinki.fi/en/faculty-arts/research/disciplines/digital-humanities/cognitive-science). I found out about this newish field when I started my bachelors degree in computer science. Cognitive science was mentioned in out freshman guide as a good choice for a minor subject. So I took the introductory course, just to see what it was all about, and fell in love with its interdisciplinary nature. And while I was completing my bachelors degree, I noticed that I was far more interested in cognitive science courses then my majors
 
-What else was I suppose to write... Hobbies? As I am a bit oder the the average student, I have a day job and two kids, so I don't have a lot of time for hobbies. I try to make use of commuting time by listening audio books and right now I am listening [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). Its kind of an compromise with me feeling I should listen usefull audiobooks where I can learn something but it still light enough to be fun.
+What else was I suppose to write... Hobbies? As I am a bit oder the the average student, I have a day job and two kids, so I don't have a lot of time for hobbies. I try to make use of commuting time by listening audio books and right now I am listening [Amanda Montells Cultish: The Language of Fanaticism](https://www.goodreads.com/book/show/55338982-cultish). 
 
 Here's a list of few of my book recommendations: 
 * [Kevin Mitnics & William L. Simon: Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/book/show/10256723-ghost-in-the-wires?ref=nav_sb_ss_1_18)
@@ -14,9 +14,9 @@ Here's a list of few of my book recommendations:
 
 ## Why this page exists?
 
-<img src="https://imgs.xkcd.com/comics/git.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/>This page is the final project of Command-Line Tools for Linguists course (University of Helsinki). The learning objectives in this course are:
+<img src="https://imgs.xkcd.com/comics/git.png" alt="XKCD comic about Git" hspace="20" width="30%" align="right"/>This page is the final project of command line tools for linguists course (University of Helsinki). The learning objectives in this course are:
 * operating in a Unix-like environment
-* using Unix command-line on a Windows or Mac OSX computer
+* using Unix command line (available in MacOS and Windows too)
 * using regular expressions
 * processing corpora at a basic level
 * running programs from the command-line
@@ -28,7 +28,7 @@ Here's a list of few of my book recommendations:
 
 If you are interested, see [this link](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) to read more abut this course (or check [my notes](https://katja-cmd.github.io/cmdline_course.html)  from this course.)
 
-<sub>(_The source for the cartoon: ![XKCD](https://xkcd.com/1597/)_ -->)<sub>
+<sub>(_The source for the cartoon: ![XKCD](https://xkcd.com/1597/)_ -->)</sub>
 
 
 ## My notes from this course
@@ -49,17 +49,17 @@ If you are interested, see [this link](https://studies.helsinki.fi/courses/cours
 
 ## My projects
 
-* [Jakaja application for small group assignment optimization ror the University of Helsinki's Faculty of Education](https://github.com/piryopt/pienryhmien-optimointi). Study project for [Software Lab course](https://studies.helsinki.fi/kurssit/opintojakso/otm-f07aa52f-df4c-4a9a-8e89-d6222b88e2f2/TKT20007). Group work.
+* [Jakaja application for small group assignment optimization ror the University of Helsinki's Faculty of Education](https://github.com/piryopt/pienryhmien-optimointi). Study project for [Software Lab course](https://studies.helsinki.fi/kurssit/opintojakso/otm-f07aa52f-df4c-4a9a-8e89-d6222b88e2f2/TKT20007). Group work. Python, HTML, Javascript, Robot Framework, CSS.
 
-* [Movie voting app](https://github.com/KatjaKvintus/Movie-voting-app). Course project for [Software Development Methods course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118024742-2021-08-01/TKT20002).
+* [Movie voting app](https://github.com/KatjaKvintus/Movie-voting-app). Course project for [Software Development Methods course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118024742-2021-08-01/TKT20002). Python.
 
-* [Overnight oatmeal recipe bank](https://github.com/KatjaKvintus/Overnight-oats-recipe-bank). Study project for [Database application lab course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025659-2021-08-01/TKT20011).
+* [Overnight oatmeal recipe bank](https://github.com/KatjaKvintus/Overnight-oats-recipe-bank). Study project for [Database application lab course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025659-2021-08-01/TKT20011). Python, HTML, CSS and PostgreSQL.
 
-* [Visualization and comparison of maze generating algorithms ](https://github.com/KatjaKvintus/maze_generation). Study project for [Data Structures Project course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025627-2021-08-01/TKT20010).
+* [Visualization and comparison of maze generating algorithms](https://github.com/KatjaKvintus/maze_generation). Study project for [Data Structures Project course](https://studies.helsinki.fi/courses/course-unit/hy-CU-118025627-2021-08-01/TKT20010). Python & HTML.
 
 * [This web page Github project](https://github.com/katja-cmd/katja-cmd.github.io). Study project for [Command Line Tools for Linguists course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f).
 
-* [Command line tools course assignment](https://github.com/katja-cmd/cmdline-course). Includes few scripts and makefile to run in an .txt file.
+* [Command line tools course assignment](https://github.com/katja-cmd/cmdline-course). Study project for [Command Line Tools for Linguists course](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f). Includes few scripts and makefile to run in an .txt file.
 
 
 ## Few courses I've taken
@@ -75,9 +75,10 @@ If you are interested, see [this link](https://studies.helsinki.fi/courses/cours
 * [Johdatus sosiaalitieteisiin](https://studies.helsinki.fi/kurssit/toteutus/otm-3efa51b5-cc9b-4be6-ab84-972b525252d9/SOSK-101), spring 2024
 
 
-## My AI and CS favorites in the pop culture
 
-* [Discworld: Hex](https://discworld.fandom.com/wiki/Hex) 
+## Misc: my AI and CS favorites in the pop culture
+
+* [Hex, the magic-powered computer in the Discworld](https://discworld.fandom.com/wiki/Hex) 
 
 * [The Matrix](https://www.imdb.com/title/tt0133093/)
 

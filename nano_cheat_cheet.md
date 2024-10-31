@@ -1,3 +1,4 @@
+
 ### Nano cheat sheet
 
 | **Command**           | **Description**                       |
@@ -14,8 +15,8 @@
 | `Ctrl + H`              | Delete character before cursor        |
 | `Ctrl + D`              | Delete character under cursor         |
 | `Alt + Del`             | Delete current line                   |
-| `Ctrl + T Ctrl+S`       | Run a spell check                     |
-| `Ctrl + T Ctrl+Y`       | Run a syntax check                    |
+| `Ctrl + T, Ctrl + S`       | Run a spell check                     |
+| `Ctrl + T, Ctrl + Y`       | Run a syntax check                    |
 | `Ctrl + A`              | Move to start of line                 |
 | `Ctrl + E`              | Move to end of line                   |
 | `Ctrl + ↑`              | Move to previous block                |

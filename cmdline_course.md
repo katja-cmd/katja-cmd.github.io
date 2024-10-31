@@ -5,9 +5,9 @@ _This page includes:_
 
 [The course contents](#the-course-contents)
 
-[My notes (e.g. collection od cheat sheets)](#my-notes)
+[My notes (e.g. collection of cheat sheets)](#my-notes)
 
-[Usefull links to written tutorials](#usefull-links)
+[Useful links to written tutorials](#usefull-links)
 
 [Handy video tutorials](#handy-video-tutorials)
 
@@ -19,7 +19,7 @@ _This page includes:_
 
 Main topics:
 * How to install and use Windos subsystem for Windows
-* Using command-line basic commands
+* Using command line basic commands
 * Using text editors in command line (Nano)
 * File formats (pdf, doc, jpeg, png, mp4)
 
@@ -61,7 +61,7 @@ Main topics:
 * Users, groups and file permissions
 * Working in a remote server
 
-The second week of this course included more navigating in the UNIX environment from the command line like copying files to another folders, creatings links to files, and how to remove folders when there is or is not contents. Also learned how to connect to a remote system using [SSH (secure shell protocol)](https://en.wikipedia.org/wiki/Secure_Shell). (Be aware: after getting the connection to Puhti working, the samp emails cannot be stopped.)
+The second week of this course included more navigating in the UNIX environment from the command line like copying files to another folders, creatings links to files, and how to remove folders when there is or is not contents. Also learned how to connect to a remote system using [SSH (secure shell protocol)](https://en.wikipedia.org/wiki/Secure_Shell). (Be aware: after getting the connection to Puhti working, the spam emails cannot be stopped.)
 
 
 _Example code snippet of this week:_
